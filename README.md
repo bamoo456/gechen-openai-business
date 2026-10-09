@@ -7,7 +7,7 @@ ACP Gateway (open-source remote access to coding agents, web + iOS) and ParkNear
 
 ## Structure
 
-- `index.html` — the whole page: markup, inline CSS and a small inline script (scroll reveal, nav state). No build step, no dependencies.
+- `index.html` — the whole page: markup, inline CSS and a small inline script (mobile menu, nav state, hero diagram playback). No build step, no dependencies.
 - `assets/` — product screenshots (`*.webp`), `favicon.svg` (logo mark) and `og.png` (1200×630 Open Graph image).
 - Fonts (Geist, Geist Mono, Instrument Serif) load from Google Fonts; the page falls back to system fonts offline.
 
